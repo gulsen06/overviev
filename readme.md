@@ -45,13 +45,6 @@
 
 <!-- YOUTUBE:START -->
 
-- [🔖️ Obsidian Bookmarks: Select The Best From Your Vault ⭐️](https://www.youtube.com/watch?v=3X6rEOxMTbw)
-- [Catch Up &amp; Hang Out Stream &lpar;Take 2!&rpar;](https://www.youtube.com/watch?v=UFLhl0c32yU)
-- [Catch Up &amp; Hang Out Stream](https://www.youtube.com/watch?v=hpRqBEB5L-Y)
-- [Channel Updates &amp; Some Big News](https://www.youtube.com/watch?v=4-d7AP07K0k)
-- [Obsidian Dataview Plugin Tutorial 101](https://www.youtube.com/watch?v=buOxN65U0qE)
-<!-- YOUTUBE:END -->
-
 ---
 
 <h3 align="center"><a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a> Latest Medium Articles <a href="https://medium.com/@tallguyjenks"><img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/></a></h3>
